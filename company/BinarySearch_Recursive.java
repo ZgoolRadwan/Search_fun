@@ -1,6 +1,4 @@
-package  com.company;
-
-import java.util.Arrays;
+package company;
 
 public class BinarySearch_Recursive {
 
